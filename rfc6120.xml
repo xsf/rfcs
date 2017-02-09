@@ -6438,10 +6438,11 @@ Public-key and attribute certificate frameworks</title>
 <author initials="R." surname="Fielding" fullname="Roy Thomas Fielding">
   <organization>University of California, Irvine</organization>
 </author>
+<date year='2000' />
 </front>
 <seriesInfo name="" value="2000" />
 <format type="PDF" target="http://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf"/>
-</reference> 
+</reference>
 
 <reference anchor='RFC3920'>
 <front>
