@@ -1,0 +1,4 @@
+rfc*.pdf
+rfc*.txt
+*.sw[op]
+env/
