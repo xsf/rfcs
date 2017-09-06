@@ -1097,7 +1097,7 @@ _xmpp-server._tcp.example.com. 0 IN SRV 0 0 5269 hosting.example.net
 <!-- draft-ietf-dane-srv (published; RFC 7673) -->
       &rfc7673;
 
-<reference anchor="XEP-0220" target="http://xmpp.org/extensions/xep-0220.html">
+<reference anchor="XEP-0220" target="https://xmpp.org/extensions/xep-0220.html">
   <front>
     <title>Server Dialback</title>
     <author initials="J." surname="Miller" fullname="Jeremie Miller">
@@ -1125,7 +1125,7 @@ _xmpp-server._tcp.example.com. 0 IN SRV 0 0 5269 hosting.example.net
       &rfc6749;
       &rfc7590;
 
-<reference anchor="XEP-0045" target="http://xmpp.org/extensions/xep-0045.html">
+<reference anchor="XEP-0045" target="https://xmpp.org/extensions/xep-0045.html">
   <front>
     <title>Multi-User Chat</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1136,7 +1136,7 @@ _xmpp-server._tcp.example.com. 0 IN SRV 0 0 5269 hosting.example.net
   <seriesInfo name="XSF XEP" value="0045"/>
 </reference>
 
-<reference anchor="XEP-0288" target="http://xmpp.org/extensions/xep-0288.html">
+<reference anchor="XEP-0288" target="https://xmpp.org/extensions/xep-0288.html">
   <front>
     <title>Bidirectional Server-to-Server Connections</title>
     <author initials="P." surname="Hancke" fullname="Philipp Hancke">
@@ -1150,7 +1150,7 @@ _xmpp-server._tcp.example.com. 0 IN SRV 0 0 5269 hosting.example.net
   <seriesInfo name="XSF XEP" value="0288"/>
 </reference>
 
-<reference anchor="XEP-0344" target="http://xmpp.org/extensions/xep-0344.html">
+<reference anchor="XEP-0344" target="https://xmpp.org/extensions/xep-0344.html">
   <front>
     <title>Impact of TLS and DNSSEC on Dialback</title>
     <author initials="P." surname="Hancke" fullname="Philipp Hancke">
