@@ -6682,7 +6682,7 @@ Public-key and attribute certificate frameworks</title>
     <date month="March" year="2010"/>
   </front>
   <seriesInfo name="XSF XEP" value="0001"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0001.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0001.html"/>
 </reference>
 
 <reference anchor="XEP-0016">
@@ -6701,7 +6701,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="15" month="February" year="2007"/>
   </front>
   <seriesInfo name="XSF XEP" value="0016"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0016.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0016.html"/>
 </reference>
 
 <reference anchor="XEP-0045">
@@ -6716,7 +6716,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="17" month="July" year="2007"/>
   </front>
   <seriesInfo name="XSF XEP" value="0045"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0045.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0045.html"/>
 </reference>
 
 <reference anchor="XEP-0060">
@@ -6743,7 +6743,7 @@ Public-key and attribute certificate frameworks</title>
     <date month="July" year="2010"/>
   </front>
   <seriesInfo name="XSF XEP" value="0060"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0060.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0060.html"/>
 </reference>
 
 <reference anchor="XEP-0071">
@@ -6758,7 +6758,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="3" month="September" year="2008"/>
   </front>
   <seriesInfo name="XSF XEP" value="0071"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0071.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0071.html"/>
 </reference>
 
 <reference anchor="XEP-0077">
@@ -6773,7 +6773,7 @@ Public-key and attribute certificate frameworks</title>
     <date month="September" year="2009"/>
   </front>
   <seriesInfo name="XSF XEP" value="0077"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0077.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0077.html"/>
 </reference>
 
 <reference anchor="XEP-0086">
@@ -6794,7 +6794,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="17" month="February" year="2004"/>
   </front>
   <seriesInfo name="XSF XEP" value="0086"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0086.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0086.html"/>
 </reference>
 
 <reference anchor="XEP-0100">
@@ -6815,7 +6815,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="05" month="October" year="2005"/>
   </front>
   <seriesInfo name="XSF XEP" value="0100"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0100.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0100.html"/>
 </reference>
 
 <reference anchor="XEP-0114">
@@ -6830,7 +6830,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="03" month="March" year="2005"/>
   </front>
   <seriesInfo name="XSF XEP" value="0114"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0114.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0114.html"/>
 </reference>
 
 <reference anchor="XEP-0124">
@@ -6857,7 +6857,7 @@ Public-key and attribute certificate frameworks</title>
     <date month="July" year="2010"/>
   </front>
   <seriesInfo name="XSF XEP" value="0124"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0124.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0124.html"/>
 </reference>
 
 <reference anchor="XEP-0138">
@@ -6878,7 +6878,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="27" month="May" year="2009"/>
   </front>
   <seriesInfo name="XSF XEP" value="0138"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0138.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0138.html"/>
 </reference>
 
 <reference anchor="XEP-0156">
@@ -6899,7 +6899,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="12" month="June" year="2007"/>
   </front>
   <seriesInfo name="XSF XEP" value="0156"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0156.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0156.html"/>
 </reference>
 
 <reference anchor="XEP-0160">
@@ -6914,7 +6914,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="24" month="January" year="2006"/>
   </front>
   <seriesInfo name="XSF XEP" value="0160"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0160.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0160.html"/>
 </reference>
 
 <reference anchor="XEP-0174">
@@ -6929,7 +6929,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="26" month="November" year="2008"/>
   </front>
   <seriesInfo name="XSF XEP" value="0174"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0174.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0174.html"/>
 </reference>
 
 <reference anchor="XEP-0175">
@@ -6944,7 +6944,7 @@ Public-key and attribute certificate frameworks</title>
     <date month="September" year="2009"/>
   </front>
   <seriesInfo name="XSF XEP" value="0175"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0175.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0175.html"/>
 </reference>
 
 <reference anchor="XEP-0178">
@@ -6965,7 +6965,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="15" month="February" year="2007"/>
   </front>
   <seriesInfo name="XSF XEP" value="0178"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0178.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0178.html"/>
 </reference>
 
 <reference anchor="XEP-0191">
@@ -6980,7 +6980,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="15" month="February" year="2007"/>
   </front>
   <seriesInfo name="XSF XEP" value="0191"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0191.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0191.html"/>
 </reference>
 
 <reference anchor="XEP-0198">
@@ -7019,7 +7019,7 @@ Public-key and attribute certificate frameworks</title>
     <date month="February" year="2011"/>
   </front>
   <seriesInfo name="XSF XEP" value="0198"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0198.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0198.html"/>
 </reference>
 
 <reference anchor="XEP-0199">
@@ -7034,7 +7034,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="03" month="June" year="2009"/>
   </front>
   <seriesInfo name="XSF XEP" value="0199"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0199.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0199.html"/>
 </reference>
 
 <reference anchor="XEP-0205">
@@ -7049,7 +7049,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="7" month="January" year="2009"/>
   </front>
   <seriesInfo name="XSF XEP" value="0205"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0205.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0205.html"/>
 </reference>
 
 <reference anchor="XEP-0206">
@@ -7070,7 +7070,7 @@ Public-key and attribute certificate frameworks</title>
     <date month="July" year="2010"/>
   </front>
   <seriesInfo name="XSF XEP" value="0206"/>
-  <format type="HTML" target="http://www.xmpp.org/extensions/xep-0206.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0206.html"/>
 </reference>
 
 <reference anchor="XEP-0220">
@@ -7097,7 +7097,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="18" month="March" year="2010"/>
   </front>
   <seriesInfo name="XSF XEP" value="0220"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0220.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0220.html"/>
 </reference>
 
 <reference anchor="XEP-0225">
@@ -7112,7 +7112,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="06" month="October" year="2008"/>
   </front>
   <seriesInfo name="XSF XEP" value="0225"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0225.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0225.html"/>
 </reference>
 
 <reference anchor="XEP-0233">
@@ -7139,7 +7139,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="10" month="June" year="2010"/>
   </front>
   <seriesInfo name="XSF XEP" value="0233"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0233.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0233.html"/>
 </reference>
 
 <reference anchor="XEP-0288">
@@ -7160,7 +7160,7 @@ Public-key and attribute certificate frameworks</title>
     <date day="04" month="October" year="2010"/>
   </front>
   <seriesInfo name="XSF XEP" value="0288"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0288.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0288.html"/>
 </reference>
 
 <reference anchor='XML-FRAG'

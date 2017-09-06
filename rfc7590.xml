@@ -217,7 +217,7 @@ http://www.rfc-editor.org/errata_search.php?eid=3486
         <seriesInfo name="Work in Progress," value="draft-ietf-xmpp-posh-04"/>
       </reference>
 
-<reference anchor="XEP-0138" target="http://xmpp.org/extensions/xep-0138.html" >
+<reference anchor="XEP-0138" target="https://xmpp.org/extensions/xep-0138.html" >
   <front>
     <title>Stream Compression</title>
     <author initials="J." surname="Hildebrand" fullname="Joe Hildebrand">
@@ -237,7 +237,7 @@ http://www.rfc-editor.org/errata_search.php?eid=3486
   <seriesInfo name="XSF XEP" value="0138"/>
 </reference>
 
-<reference anchor="XEP-0170" target="http://xmpp.org/extensions/xep-0170.html">
+<reference anchor="XEP-0170" target="https://xmpp.org/extensions/xep-0170.html">
   <front>
     <title>Recommended Order of Stream Feature Negotiation</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -251,7 +251,7 @@ http://www.rfc-editor.org/errata_search.php?eid=3486
   <seriesInfo name="XSF XEP" value="0170"/>
 </reference>
 
-<reference anchor="XEP-0198" target="http://xmpp.org/extensions/xep-0198.html">
+<reference anchor="XEP-0198" target="https://xmpp.org/extensions/xep-0198.html">
   <front>
     <title>Stream Management</title>
     <author initials="J." surname="Karneges" fullname="Justin Karneges">
@@ -295,7 +295,7 @@ http://www.rfc-editor.org/errata_search.php?eid=3486
   <seriesInfo name="XSF XEP" value="0198"/>
 </reference>
 
-<reference anchor="XEP-0220" target="http://xmpp.org/extensions/xep-0220.html">
+<reference anchor="XEP-0220" target="https://xmpp.org/extensions/xep-0220.html">
   <front>
     <title>Server Dialback</title>
     <author initials="J." surname="Miller" fullname="Jeremie Miller">

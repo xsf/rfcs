@@ -832,11 +832,11 @@ C: <open xmlns="urn:ietf:params:xml:ns:xmpp-framing"
 <seriesInfo name='RFC' value='6454' />
 </reference>
 
-   <?rfc include="http://xmpp.org/extensions/refs/reference.XSF.XEP-0124.xml"?>
-   <?rfc include="http://xmpp.org/extensions/refs/reference.XSF.XEP-0156.xml"?>
-   <?rfc include="http://xmpp.org/extensions/refs/reference.XSF.XEP-0198.xml"?>
-   <?rfc include="http://xmpp.org/extensions/refs/reference.XSF.XEP-0199.xml"?>
-   <?rfc include="http://xmpp.org/extensions/refs/reference.XSF.XEP-0206.xml"?>
+   <?rfc include="https://xmpp.org/extensions/refs/reference.XSF.XEP-0124.xml"?>
+   <?rfc include="https://xmpp.org/extensions/refs/reference.XSF.XEP-0156.xml"?>
+   <?rfc include="https://xmpp.org/extensions/refs/reference.XSF.XEP-0198.xml"?>
+   <?rfc include="https://xmpp.org/extensions/refs/reference.XSF.XEP-0199.xml"?>
+   <?rfc include="https://xmpp.org/extensions/refs/reference.XSF.XEP-0206.xml"?>
 
 <reference anchor='XML-SCHEMA'
            target='http://www.w3.org/TR/2004/REC-xmlschema-1-20041028'>

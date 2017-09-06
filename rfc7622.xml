@@ -1015,7 +1015,7 @@ Representing Nicknames</title>
  <seriesInfo name='edited by Mark Davis' value='and Michel Suignard'/>
 </reference>
 
-<reference anchor="XEP-0004" target="http://xmpp.org/extensions/xep-0004.html">
+<reference anchor="XEP-0004" target="https://xmpp.org/extensions/xep-0004.html">
   <front>
     <title>Data Forms</title>
     <author initials="R." surname="Eatmon" fullname="Ryan Eatmon">
@@ -1053,7 +1053,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0004"/>
 </reference>
 
-<reference anchor="XEP-0016" target="http://xmpp.org/extensions/xep-0016.html">
+<reference anchor="XEP-0016" target="https://xmpp.org/extensions/xep-0016.html">
   <front>
     <title>Privacy Lists</title>
     <author initials="P." surname="Millard" fullname="Peter Millard">
@@ -1073,7 +1073,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0016"/>
 </reference>
 
-<reference anchor="XEP-0029" target="http://xmpp.org/extensions/xep-0029.html">
+<reference anchor="XEP-0029" target="https://xmpp.org/extensions/xep-0029.html">
   <front>
     <title>Definition of Jabber Identifiers (JIDs)</title>
     <author initials="C." surname="Kaes" fullname="Craig Kaes">
@@ -1087,7 +1087,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0029"/>
 </reference>
 
-<reference anchor="XEP-0030" target="http://xmpp.org/extensions/xep-0030.html">
+<reference anchor="XEP-0030" target="https://xmpp.org/extensions/xep-0030.html">
   <front>
     <title>Service Discovery</title>
     <author initials="J." surname="Hildebrand" fullname="Joe Hildebrand">
@@ -1119,7 +1119,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0030"/>
 </reference>
 
-<reference anchor="XEP-0045" target="http://xmpp.org/extensions/xep-0045.html">
+<reference anchor="XEP-0045" target="https://xmpp.org/extensions/xep-0045.html">
   <front>
     <title>Multi-User Chat</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1133,7 +1133,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0045"/>
 </reference>
 
-<reference anchor="XEP-0048" target="http://xmpp.org/extensions/xep-0048.html">
+<reference anchor="XEP-0048" target="https://xmpp.org/extensions/xep-0048.html">
   <front>
     <title>Bookmarks</title>
     <author initials="R." surname="Blackman" fullname="Rachel Blackman">
@@ -1159,7 +1159,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0048"/>
 </reference>
 
-<reference anchor="XEP-0054" target="http://xmpp.org/extensions/xep-0054.html">
+<reference anchor="XEP-0054" target="https://xmpp.org/extensions/xep-0054.html">
   <front>
     <title>vcard-temp</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1171,10 +1171,10 @@ Representing Nicknames</title>
     <date month="July" year="2008"/>
   </front>
   <seriesInfo name="XSF XEP" value="0054"/>
-  <format type="HTML" target="http://xmpp.org/extensions/xep-0054.html"/>
+  <format type="HTML" target="https://xmpp.org/extensions/xep-0054.html"/>
 </reference>
 
-<reference anchor="XEP-0060" target="http://xmpp.org/extensions/xep-0060.html">
+<reference anchor="XEP-0060" target="https://xmpp.org/extensions/xep-0060.html">
   <front>
     <title>Publish-Subscribe</title>
     <author initials="P." surname="Millard" fullname="Peter Millard">
@@ -1200,7 +1200,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0060"/>
 </reference>
 
-<reference anchor="XEP-0065" target="http://xmpp.org/extensions/xep-0065.html">
+<reference anchor="XEP-0065" target="https://xmpp.org/extensions/xep-0065.html">
   <front>
     <title>SOCKS5 Bytestreams</title>
     <author initials="D." surname="Smith" fullname="Dave Smith">
@@ -1232,7 +1232,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0065"/>
 </reference>
 
-<reference anchor="XEP-0077" target="http://xmpp.org/extensions/xep-0077.html">
+<reference anchor="XEP-0077" target="https://xmpp.org/extensions/xep-0077.html">
   <front>
     <title>In-Band Registration</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1246,7 +1246,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0077"/>
 </reference>
 
-<reference anchor="XEP-0106" target="http://xmpp.org/extensions/xep-0106.html">
+<reference anchor="XEP-0106" target="https://xmpp.org/extensions/xep-0106.html">
   <front>
     <title>JID Escaping</title>
     <author initials="J." surname="Hildebrand" fullname="Joe Hildebrand">
@@ -1266,7 +1266,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0106"/>
 </reference>
 
-<reference anchor="XEP-0114" target="http://xmpp.org/extensions/xep-0114.html">
+<reference anchor="XEP-0114" target="https://xmpp.org/extensions/xep-0114.html">
   <front>
     <title>Jabber Component Protocol</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1280,7 +1280,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0114"/>
 </reference>
 
-<reference anchor="XEP-0144" target="http://xmpp.org/extensions/xep-0144.html">
+<reference anchor="XEP-0144" target="https://xmpp.org/extensions/xep-0144.html">
   <front>
     <title>Roster Item Exchange</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1294,7 +1294,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0144"/>
 </reference>
 
-<reference anchor="XEP-0166" target="http://xmpp.org/extensions/xep-0166.html">
+<reference anchor="XEP-0166" target="https://xmpp.org/extensions/xep-0166.html">
   <front>
     <title>Jingle</title>
     <author initials="S." surname="Ludwig" fullname="Scott Ludwig">
@@ -1338,7 +1338,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0166"/>
 </reference>
 
-<reference anchor="XEP-0191" target="http://xmpp.org/extensions/xep-0191.html">
+<reference anchor="XEP-0191" target="https://xmpp.org/extensions/xep-0191.html">
   <front>
     <title>Blocking Command</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1352,7 +1352,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0191"/>
 </reference>
 
-<reference anchor="XEP-0203" target="http://xmpp.org/extensions/xep-0203.html">
+<reference anchor="XEP-0203" target="https://xmpp.org/extensions/xep-0203.html">
   <front>
     <title>Delayed Delivery</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
@@ -1366,7 +1366,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0203"/>
 </reference>
 
-<reference anchor="XEP-0220" target="http://xmpp.org/extensions/xep-0220.html">
+<reference anchor="XEP-0220" target="https://xmpp.org/extensions/xep-0220.html">
   <front>
     <title>Server Dialback</title>
     <author initials="J." surname="Miller" fullname="Jeremie Miller">
@@ -1392,7 +1392,7 @@ Representing Nicknames</title>
   <seriesInfo name="XSF XEP" value="0220"/>
 </reference>
 
-<reference anchor="XEP-0292" target="http://xmpp.org/extensions/xep-0292.html">
+<reference anchor="XEP-0292" target="https://xmpp.org/extensions/xep-0292.html">
   <front>
     <title>vCard4 Over XMPP</title>
     <author initials="P." surname="Saint-Andre" fullname="Peter Saint-Andre">
